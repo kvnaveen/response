@@ -1,3 +1,19 @@
 {
-"status":"SUCCESS"
+"status":"SUCCESS",
+"code": 200,
+"message": "SUCCESS",
+"results":[
+  {
+    "title": "title 1",
+    "description": "Description 1"
+  },
+  {
+    "title": "title 2",
+    "description": "Description 2"
+  },
+  {
+    "title": "title 2",
+    "description": "Description 2"
+  }
+]
 }
